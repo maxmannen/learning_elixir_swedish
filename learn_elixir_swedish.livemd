@@ -1,6 +1,12 @@
 # Lär dig programmera med Elixir
 
-## Section
+## Kort om Elixir
+
+Elixir är ett funktionellt programmeringsspråk till skillnad från t.ex Javascript som är objektorienterat.  Är du ny inom programmering och har liten erfarenhet så kommer du snabbt komma igång med Elixir. Har du programmerat tidigare med t.ex Javascript så kan det kännas lite ovant men du kommer snabbt in i det.
+
+<!-- livebook:{"break_markdown":true} -->
+
+Elis
 
 ```elixir
 
